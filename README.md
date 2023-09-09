@@ -1,2 +1,2 @@
 # FLARE23
-adding the loss and Trainer to nnU-Netv2 for training and inferece.
+Adding the loss and Trainer to nnU-Netv2 for training and inferece.
